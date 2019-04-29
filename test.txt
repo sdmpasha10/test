@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 50BC-C3F0
+
+ Directory of C:\Users\syed.pasha\Desktop\Git
+
+29-04-2019  10:35    <DIR>          .
+29-04-2019  10:35    <DIR>          ..
+29-04-2019  10:35                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  458,476,990,464 bytes free
